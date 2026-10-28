@@ -1,0 +1,3 @@
+# This file configures the analyzer, which statically checks Dart code.
+# https://dart.dev/guides/language/analysis-options
+include: package:flutter_lints/flutter.yaml
